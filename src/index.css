@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Vazir;
+  font-weight: normal;
+  font-style: normal;
+  src: url('./fonts/Vazir.woff');
+  font-display: swap;
+}
+
+body {
+  margin: 0;
+  font-family: Vazir !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

@@ -1,0 +1,149 @@
+@font-face {
+      font-family: 'Vazir';
+      src: url('../fonts/Vazir-Medium.woff2') format('woff2'),
+           url('../fonts/Vazir-Medium.woff') format('woff'),
+           url('../fonts/Vazir-Medium.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+    }
+    
+    @font-face {
+      font-family: 'Vazir';
+      src: url('../fonts/Vazir-Bold.woff2') format('woff2'),
+           url('../fonts/Vazir-Bold.woff') format('woff'),
+           url('../fonts/Vazir-Bold.ttf') format('truetype');
+      font-weight: bold;
+      font-style: normal;
+    }
+    .doctor-detail-container{
+      margin: 50px 200px ;
+      display: flex;
+      direction: rtl;
+    }
+        
+    .doctor-details {
+      width: 66.67%;
+      margin-left: 30px;
+      display: flex;
+      align-items: flex-start;
+      flex-wrap: wrap;
+      max-width: 1200px;
+      padding: 20px;
+      background-color: #ffffff;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      border-radius: 10px;
+      font-family: 'Vazir';
+      direction: rtl;
+    }
+
+.doctor-details h1 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.doctor-details img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #007BFF;
+}
+
+.doctor-details p {
+  font-size: 16px;
+  color: #555;
+  margin: 10px 0;
+}
+
+.doctor-details ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.doctor-details ul li {
+  font-size: 14px;
+  color: #444;
+  background-color: #f9f9f9;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 5px;
+}
+
+.doctor-details ul li:nth-child(odd) {
+  background-color: #f1f1f1;
+}
+
+.doctor-details p:not(:last-child) {
+
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+.doctor-details .not-found {
+  font-size: 18px;
+  color: red;
+  margin-top: 20px;
+}
+
+.doctor-exact-address {
+  max-width: 90%;
+  width: 33.33%;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  text-align: center;
+  font-family: 'vazir';
+}
+
+.doctor-exact-address h1 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.doctor-exact-address img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+  border: 3px solid #007BFF;
+}
+
+.doctor-exact-address p {
+  font-size: 16px;
+  color: #555;
+  margin: 10px 0;
+}
+
+.doctor-exact-address ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.doctor-exact-address ul li {
+  font-size: 14px;
+  color: #444;
+  background-color: #f9f9f9;
+  padding: 10px;
+  margin: 5px 0;
+  border-radius: 5px;
+}
+
+.doctor-exact-address ul li:nth-child(odd) {
+  background-color: #f1f1f1;
+}
+
+.doctor-exact-address p:not(:last-child) {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+.doctor-exact-address .not-found {
+  font-size: 18px;
+  color: red;
+  margin-top: 20px;
+}

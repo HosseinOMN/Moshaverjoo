@@ -1,0 +1,99 @@
+/* Home.css */
+
+  
+/* استایل کانتینر کارت‌ها */
+.home-specialty-buttons {
+  display: grid;
+  grid-auto-flow: column; /* گرید به صورت افقی */
+  grid-template-rows: repeat(2, auto); /* دو ردیف */
+  grid-gap: 20px; /* فاصله بین کارت‌ها */
+  overflow-x: auto; /* فعال کردن اسکرول افقی */
+  padding: 50px;
+  scrollbar-width: none; /* حذف اسکرول بار در فایرفاکس */
+}
+
+.home-specialty-buttons::-webkit-scrollbar {
+  display: none; /* حذف اسکرول بار در کروم */
+}
+
+/* دکمه‌های فلش چپ و راست */
+.arrow-button {
+  background-color: #1B7DCA;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  position: absolute;
+  top: 50%; /* قرارگیری در وسط کانتینر */
+  transform: translateY(-50%);
+  z-index: 10;
+}
+
+.arrow-button.left {
+  left: 10px; /* موقعیت دکمه چپ */
+}
+
+.arrow-button.right {
+  right: 10px; /* موقعیت دکمه راست */
+}
+
+/* استایل هر کارت */
+.home-specialty-button {
+  direction: rtl; /* راست به چپ برای محتوای فارسی */
+  min-width: 220px; /* عرض کارت */
+  height: 100px; /* ارتفاع کارت */
+  background: white; /* رنگ پس‌زمینه */
+  border: 1px solid #e0e0e0; /* رنگ کادر */
+  border-radius: 8px; /* گوشه‌های گرد */
+  display: flex; /* مدل نمایش */
+  flex-direction: column; /* محتوا در ستون */
+  justify-content: center; /* قرار دادن محتوا در مرکز عمودی */
+  align-items: flex-start; /* محتوای متنی در سمت راست */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* سایه برای کارت */
+  padding: 10px 15px; /* فضای داخلی */
+  gap: 8px; /* فاصله بین عناصر داخلی */
+  font-size: 14px; /* اندازه متن */
+  color: #2d3748; /* رنگ متن */
+  transition: transform 0.2s ease; /* انیمیشن هنگام هاور */
+}
+
+.home-specialty-button:hover {
+  transform: translateY(-5px); /* کارت هنگام هاور کمی بالا می‌رود */
+  box-shadow: 0 4px 8px #1B7DCA; /* افزایش سایه هنگام هاور */
+}
+
+.home-specialty-button .title {
+  font-weight: bold; /* متن پررنگ برای عنوان */
+  font-size: 16px; /* اندازه بزرگ‌تر برای عنوان */
+  color: #1B7DCA; /* رنگ سبز عنوان */
+}
+
+.home-specialty-button .count {
+  font-size: 14px; /* اندازه متن برای شمارش */
+  color: #6c757d; /* رنگ خاکستری شمارش */
+}
+
+.home-specialty-button .icon {
+  font-size: 16px; /* اندازه آیکون */
+  color: #2d6a4f; /* رنگ آیکون */
+  margin-left: auto; /* قرار دادن آیکون در انتها */
+}
+
+.title1{
+  direction: rtl;
+  padding-right: 30px;
+}
+.home-page__top-doctors, .doctors-page__top-doctors {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.home-page__top-doctors .doctor-card, .doctors-page__top-doctors .doctor-card {
+  width: 300px; /* یا اندازه دلخواه شما */
+}
