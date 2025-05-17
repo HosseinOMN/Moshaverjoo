@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Moshaverjoo/static/css/main.55bfcc40.css",
-    "main.js": "/Moshaverjoo/static/js/main.62b2c18a.js",
+    "main.js": "/Moshaverjoo/static/js/main.f39d397e.js",
     "static/js/453.aa8e845a.chunk.js": "/Moshaverjoo/static/js/453.aa8e845a.chunk.js",
     "static/media/Vazir-Medium.ttf": "/Moshaverjoo/static/media/Vazir-Medium.36bc3e5e26823f9e9af8.ttf",
     "static/media/Vazir-Bold.ttf": "/Moshaverjoo/static/media/Vazir-Bold.aaa531a9e9300b26225d.ttf",
@@ -14,11 +14,11 @@
     "static/media/Ali-Rezaei-001.jpg": "/Moshaverjoo/static/media/Ali-Rezaei-001.8246deb840a108b4403f.jpg",
     "index.html": "/Moshaverjoo/index.html",
     "main.55bfcc40.css.map": "/Moshaverjoo/static/css/main.55bfcc40.css.map",
-    "main.62b2c18a.js.map": "/Moshaverjoo/static/js/main.62b2c18a.js.map",
+    "main.f39d397e.js.map": "/Moshaverjoo/static/js/main.f39d397e.js.map",
     "453.aa8e845a.chunk.js.map": "/Moshaverjoo/static/js/453.aa8e845a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55bfcc40.css",
-    "static/js/main.62b2c18a.js"
+    "static/js/main.f39d397e.js"
   ]
 }
