@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/HosseinOMN/Moshaverjoo/static/css/main.abe93046.css",
-    "main.js": "/HosseinOMN/Moshaverjoo/static/js/main.d7ae846c.js",
-    "static/js/453.aa8e845a.chunk.js": "/HosseinOMN/Moshaverjoo/static/js/453.aa8e845a.chunk.js",
-    "static/media/Vazir-Medium.ttf": "/HosseinOMN/Moshaverjoo/static/media/Vazir-Medium.36bc3e5e26823f9e9af8.ttf",
-    "static/media/Vazir-Bold.ttf": "/HosseinOMN/Moshaverjoo/static/media/Vazir-Bold.aaa531a9e9300b26225d.ttf",
-    "static/media/Vazir-Medium.woff": "/HosseinOMN/Moshaverjoo/static/media/Vazir-Medium.e5c2bbe6a0c77d2cf489.woff",
-    "static/media/Vazir-Bold.woff": "/HosseinOMN/Moshaverjoo/static/media/Vazir-Bold.cf91a7a6bcfa78aad306.woff",
-    "static/media/Vazir-Medium.woff2": "/HosseinOMN/Moshaverjoo/static/media/Vazir-Medium.276befd1faf18a3d9afb.woff2",
-    "static/media/Vazir.woff": "/HosseinOMN/Moshaverjoo/static/media/Vazir.a30b9598c58099f1584c.woff",
-    "static/media/Vazir-Bold.woff2": "/HosseinOMN/Moshaverjoo/static/media/Vazir-Bold.06faa6ed072a10f151d8.woff2",
-    "static/media/logo-main3.png": "/HosseinOMN/Moshaverjoo/static/media/logo-main3.f5a6d22863ef570ad8af.png",
-    "static/media/Ali-Rezaei-001.jpg": "/HosseinOMN/Moshaverjoo/static/media/Ali-Rezaei-001.8246deb840a108b4403f.jpg",
-    "index.html": "/HosseinOMN/Moshaverjoo/index.html",
-    "main.abe93046.css.map": "/HosseinOMN/Moshaverjoo/static/css/main.abe93046.css.map",
-    "main.d7ae846c.js.map": "/HosseinOMN/Moshaverjoo/static/js/main.d7ae846c.js.map",
-    "453.aa8e845a.chunk.js.map": "/HosseinOMN/Moshaverjoo/static/js/453.aa8e845a.chunk.js.map"
+    "main.css": "/Moshaverjoo/static/css/main.55bfcc40.css",
+    "main.js": "/Moshaverjoo/static/js/main.62b2c18a.js",
+    "static/js/453.aa8e845a.chunk.js": "/Moshaverjoo/static/js/453.aa8e845a.chunk.js",
+    "static/media/Vazir-Medium.ttf": "/Moshaverjoo/static/media/Vazir-Medium.36bc3e5e26823f9e9af8.ttf",
+    "static/media/Vazir-Bold.ttf": "/Moshaverjoo/static/media/Vazir-Bold.aaa531a9e9300b26225d.ttf",
+    "static/media/Vazir-Medium.woff": "/Moshaverjoo/static/media/Vazir-Medium.e5c2bbe6a0c77d2cf489.woff",
+    "static/media/Vazir-Bold.woff": "/Moshaverjoo/static/media/Vazir-Bold.cf91a7a6bcfa78aad306.woff",
+    "static/media/Vazir-Medium.woff2": "/Moshaverjoo/static/media/Vazir-Medium.276befd1faf18a3d9afb.woff2",
+    "static/media/Vazir.woff": "/Moshaverjoo/static/media/Vazir.a30b9598c58099f1584c.woff",
+    "static/media/Vazir-Bold.woff2": "/Moshaverjoo/static/media/Vazir-Bold.06faa6ed072a10f151d8.woff2",
+    "static/media/logo-main3.png": "/Moshaverjoo/static/media/logo-main3.f5a6d22863ef570ad8af.png",
+    "static/media/Ali-Rezaei-001.jpg": "/Moshaverjoo/static/media/Ali-Rezaei-001.8246deb840a108b4403f.jpg",
+    "index.html": "/Moshaverjoo/index.html",
+    "main.55bfcc40.css.map": "/Moshaverjoo/static/css/main.55bfcc40.css.map",
+    "main.62b2c18a.js.map": "/Moshaverjoo/static/js/main.62b2c18a.js.map",
+    "453.aa8e845a.chunk.js.map": "/Moshaverjoo/static/js/453.aa8e845a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abe93046.css",
-    "static/js/main.d7ae846c.js"
+    "static/css/main.55bfcc40.css",
+    "static/js/main.62b2c18a.js"
   ]
 }
